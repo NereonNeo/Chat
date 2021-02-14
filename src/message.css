@@ -1,0 +1,35 @@
+.wrap-m {
+  margin-bottom: 30px;
+  margin-top: 40px;
+  /* position: relative; */
+  width: 200px;
+  border-radius: 5px;
+  padding: 5px;
+  margin-left: 10px;
+  background-color: gray;
+  color: cornsilk;
+  align-items: center;
+}
+.wrap-r {
+  margin-bottom: 30px;
+  margin-top: 40px;
+  position: relative;
+  left: 90px;
+  width: 200px;
+  border-radius: 5px;
+  padding: 5px;
+  margin-left: 10px;
+  background-color: #0b81ff;
+  color: cornsilk;
+  align-items: center;
+}
+.wrap-usre {
+  box-sizing: border-box;
+  color: lavenderblush;
+  position: relative;
+  top: -15px;
+  width: fit-content;
+  background-color: gray;
+  border-radius: 4px;
+}
+/* .wrap-usre */
